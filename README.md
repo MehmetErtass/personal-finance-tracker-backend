@@ -107,4 +107,5 @@ The application uses OpenAI's GPT API to analyze transaction data and suggest pe
 
 ## 📝 License
 This project is licensed under the MIT License.
+
 Feel free to use, contribute, or fork the repository.
