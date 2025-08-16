@@ -5,8 +5,8 @@ This is the backend of a Personal Finance Tracker built with Flask. It enables u
 ## 🚀 Features
 
 - 📥 Add, update, and delete income and expenses
-- 🧾 Categorize transactions (e.g., food, rent, entertainment)
-- 🤖 Receive AI-powered budgeting suggestions (via OpenAI API)
+- 🧾 Categorize transactions 
+- 🤖 Receive AI-powered budgeting suggestions 
 - 📈 Track spending habits over time
 - 🔒 Secure API endpoints using API keys
 - 🌐 Ready to integrate with a frontend or mobile app
@@ -29,13 +29,13 @@ personal-finance-tracker-backend/
 ├── app.py              # Main application file
 ├── config.py           # Configuration settings
 ├── routes.py           # API route definitions
-├── models.py           # Database models (SQLAlchemy or similar)
+├── models.py           # Database models
 ├── ai_model.py         # AI-based budget advisor logic
 ├── requirements.txt    # Project dependencies
-├── .env                # Environment variables (not tracked in Git)
+├── .env                # Environment variables
 │
-├── templates/          # HTML templates (if used by Flask)
-└── __pycache__/        # Python bytecode cache (ignored)
+├── templates/          # HTML templates
+└── __pycache__/        # Python bytecode cache 
 ```
 
 ## 🔐 Environment Configuration
